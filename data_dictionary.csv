@@ -1,0 +1,6 @@
+column_name,data_type,description
+record_id,integer,Unique identifier for each incoming record
+product_code,string,Code being validated against reference data
+event_date,date,Date the incoming record applies to
+reference_version,integer,Version of the reference dataset used
+validation_status,string,Validation outcome for the incoming record

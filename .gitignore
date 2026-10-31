@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+*.tmp
+.DS_Store
+benchmark_runs/
+duplicate_test_runs/
+final_test_runs/
+large_optimized_runs/
+missing_test_runs/
+optimized_benchmark_runs/
+safe_test_runs/
+test_pipeline_runs/

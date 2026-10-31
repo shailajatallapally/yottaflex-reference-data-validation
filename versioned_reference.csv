@@ -1,0 +1,6 @@
+product_code,reference_version,status,valid_from,valid_to
+P101,1,active,2026-01-01,
+P102,1,active,2026-01-01,
+P103,1,deprecated,2026-01-01,2026-06-30
+P101,2,active,2026-07-01,
+P102,2,deprecated,2026-07-01,
